@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/myhttpclient-spring-boot-starter.iml
+/.idea/
